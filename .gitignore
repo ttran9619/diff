@@ -1,0 +1,13 @@
+# Build Artifacts
+build
+*.o
+*.d
+
+# Waf Files
+.waf*
+.lock-waf*
+waf*
+!waf
+
+# VSCode Config
+.vscode
